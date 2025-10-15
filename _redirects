@@ -1,0 +1,4 @@
+# https://developers.cloudflare.com/pages/configuration/redirects/
+# [source] [destination] [? code default: 302]
+
+cometpro https://pplx.ai/majalmiras92420
